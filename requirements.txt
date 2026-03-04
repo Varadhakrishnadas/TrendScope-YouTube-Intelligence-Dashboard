@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+google-api-python-client
+google-auth-oauthlib
+httplib2
+textblob
+tensorflow
+scikit-learn
+ipywidgets
